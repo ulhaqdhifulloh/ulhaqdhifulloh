@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Ulhaq.
+### Hi! 👋 I'm Ulhaq
 
 An undergraduate student currently pursuing a degree in **Information Systems** at **Telkom University**, Bandung. I am deeply passionate about **Artificial Intelligence** and **Machine Learning**, and I enjoy exploring how AI can transform the world around us.
 
