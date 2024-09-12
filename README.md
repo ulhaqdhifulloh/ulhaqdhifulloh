@@ -8,14 +8,6 @@ I have completed several certifications in **Machine Learning** and am now activ
 - 🎯 I am currently focusing on learning about Machine Learning through the Bangkit program
 - 💬 You can ask me in person via social media that I have listed
 - 📫 Or officially via email: ulworld5mail@gmail.com
-
-### Tech Stack
-  <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /></a>
-  <a href="#/"><img align="left" alt="Java" title="Java" width="21px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" /></a>
-  <a href="https://colab.research.google.com//"><img align="left" alt="GoogleCollab" title="GoogleCollab" width="21px" src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?fit=260%2C160&ssl=1" /></a>
-  <a href="https://jupyter.org//"><img align="left" alt="Jupyter" title="Jupyter" width="21px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" /></a>
-  <br>
-  <br>
   
 ### Github Statistic
 <p align="left">
