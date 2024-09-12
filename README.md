@@ -11,7 +11,7 @@ I have completed several certifications in **Machine Learning** and am now activ
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /></a>
-  <a href="#/"><img align="left" alt="Java" title="Java" width="21px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>
+  <a href="#/"><img align="left" alt="Java" title="Java" width="21px" src="[https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg](https://seeklogo.com/images/J/java-logo-CE0198242E-seeklogo.com.png)" /></a>
   <a href="https://colab.research.google.com//"><img align="left" alt="GoogleCollab" title="GoogleCollab" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" /></a>
   <a href="https://jupyter.org//"><img align="left" alt="Jupyter" title="Jupyter" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlquQbehFaMuUwUN32KhAS4AxK7WTUtKuZBQ&s" /></a>
   <br>
